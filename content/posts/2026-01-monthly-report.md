@@ -45,23 +45,26 @@ author: MeLsrain
 
 这是《明日方舟-终末地》的预告片的部分内容：
 
-![](https://cdn.nlark.com/yuque/0/2026/png/63297462/1769862068875-36fd8c3f-083b-41a5-b8d4-aee2b52330f3.png?x-oss-process=image%2Fformat%2Cwebp)
-![](https://cdn.nlark.com/yuque/0/2026/png/63297462/1769862072165-d87d32be-3319-44c3-8332-834c18fc4cab.png?x-oss-process=image%2Fformat%2Cwebp)
+![Pasted image 20260130164918](https://origin.picgo.net/2026/01/31/Pasted-image-202601301649188fe2c02ae4223db8.webp)
+
+![Pasted image 20260130164952](https://origin.picgo.net/2026/01/31/Pasted-image-2026013016495230d3905f67f15831.webp)
+
 
 这是《死亡搁浅2》的预告片的部分内容：
-![](https://cdn.nlark.com/yuque/0/2026/png/63297462/1769862152832-89d5db57-5d81-45a8-8a8b-78330e459faa.png?x-oss-process=image%2Fformat%2Cwebp)
+![Pasted image 20260130165104](https://origin.picgo.net/2026/01/31/Pasted-image-2026013016510461e47e7a4c263cc9.webp)
 
-![](https://cdn.nlark.com/yuque/0/2026/png/63297462/1769862159603-f4816a44-d9ad-4432-b95d-61bcd1fd489d.png?x-oss-process=image%2Fformat%2Cwebp)
+![Pasted image 20260130165034](https://origin.picgo.net/2026/01/31/Pasted-image-20260130165034fa9e04c09c43f942.webp)
 
 像啊！很像啊！这算不算是抄...
 
-![](https://i0.hdslb.com/bfs/new_dyn/44d3d8e4371a482181bbdf918402cb281674256611.jpg)
+![44d3d8e4371a482181bbdf918402cb281674256611](https://origin.picgo.net/2026/01/31/44d3d8e4371a482181bbdf918402cb281674256611a390331ab10b3a5b.jpg)
 
 哦，原来是朋友啊，那没事了。
 
 也许未来可能和《死亡搁浅》联动呢🤔
 
-###### 请支持《明日方舟终末地》喵！
+**请支持《明日方舟终末地》喵！**
+
 ---
 
 # 《泰拉瑞亚》普通难度速通中国选手以48分12秒登顶排行榜榜首
@@ -70,7 +73,7 @@ author: MeLsrain
 
 中国玩家Sn0wMak3r于2026年1月11日完成了《泰拉瑞亚》普通难度、无漏洞、随机种子的速通，用时**48分12秒**‌，超过了曾经的外国选手sububby的48分37秒的成绩，登顶世界第一。
 
-![](https://cdn.nlark.com/yuque/0/2026/png/63297462/1769862219948-be721718-6bd2-49c6-b555-b3015d1adf6c.png?x-oss-process=image%2Fformat%2Cwebp)
+![Pasted image 20260127191039](https://origin.picgo.net/2026/01/31/Pasted-image-2026012719103934bfd4df15c073a8.webp)
 
 但其中也有一个小插曲。我详细地讲讲。
 
@@ -89,7 +92,7 @@ author: MeLsrain
 
 在本次的速通中，Sn0wMak3r也小小地借用了一下替换材质的材质包，把骷髅王改成了Ez。
 
-![](https://cdn.nlark.com/yuque/0/2026/png/63297462/1769862219822-4cf51953-2047-405c-b4e0-2b02afe662ef.png?x-oss-process=image%2Fformat%2Cwebp)
+![Pasted image 20260127192448](https://origin.picgo.net/2026/01/31/Pasted-image-20260127192448105176caae8589f4.webp)
 
 虽然所有人都在玩这个梗，但是Ezfic本人的人品却并不是很好。
 他不太能接受别人比他好，所以在在他看到这个视频后就立刻进行了举报，说其侵犯了肖像权。
@@ -97,9 +100,10 @@ author: MeLsrain
 <iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=115909926584584&bvid=BV1dirSBKELR&cid=35443247178&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0"></iframe>
 
 但好在最终速通视频还是保留了下来，只是把Ez的头换成了小丑脸了。
-![|600](https://cdn.nlark.com/yuque/0/2026/png/63297462/1769862219754-497aec3c-c9de-489d-9a5d-e359b18f7dd1.png?x-oss-process=image%2Fformat%2Cwebp)
 
-###### 请支持《泰拉瑞亚》喵！
+![Pasted image 20260127192910|500](https://origin.picgo.net/2026/01/31/Pasted-image-20260127192910bc77962d8ddd02a2.webp)
+
+**请支持《泰拉瑞亚》喵！**
 
 对的，这期就这样结束了。一月看的比较少，没看到什么有趣的内容，素材就这两个吧。
 
@@ -121,4 +125,4 @@ author: MeLsrain
 
 
 
-###### 请支持 YUY_IX 喵！
+**请支持 YUY_IX 喵！**
