@@ -23,19 +23,17 @@ author: MeLsrain
 
 但在外服用户将 PayPal 账户与游戏账号绑定后，其他玩家通过 PayPal 给游戏充值时，系统出现随机扣除用户的余额，而非充值者本人账户的状况。
 
-![810a19d8bc3eb13556888db9ba64b6c2fc1f44eb|400](https://origin.picgo.net/2026/01/31/810a19d8bc3eb13556888db9ba64b6c2fc1f44eb8acccce2be373cf2.webp)
-
-{{< figure src="https://origin.picgo.net/2026/01/31/810a19d8bc3eb13556888db9ba64b6c2fc1f44eb8acccce2be373cf2.webp" title="Lighthouse (figure)" >}}
+{{< figure src="https://origin.picgo.net/2026/01/31/810a19d8bc3eb13556888db9ba64b6c2fc1f44eb8acccce2be373cf2.webp" title="Reddit上的讨论" >}}
 
 在事情发生后，其制作商鹰角网络紧急关闭了PayPal支付通道。
 
-![4bed2e738bd4b31ca38377a07e53386e9f2ff881|400](https://origin.picgo.net/2026/01/31/4bed2e738bd4b31ca38377a07e53386e9f2ff88180668c622dcaec9e.webp)
+{{< figure src="https://origin.picgo.net/2026/01/31/4bed2e738bd4b31ca38377a07e53386e9f2ff88180668c622dcaec9e.webp">}}
 
 其随机扣款的原因大概是：用户支付时会产生一个支付token，而系统把玩家保留的 token 误配到了别人的订单上，导致发生了随即扣款行为。
 
 所以就是代码没有写好🤔
 
-![4d086e061d950a7bef40805811ab7cc8f3d3c945|400](https://origin.picgo.net/2026/01/31/4d086e061d950a7bef40805811ab7cc8f3d3c9456e1a7ba98f3b0c67.webp)
+{{< figure src="https://origin.picgo.net/2026/01/31/4d086e061d950a7bef40805811ab7cc8f3d3c9456e1a7ba98f3b0c67.webp">}}
 
 ---
 
@@ -47,19 +45,20 @@ author: MeLsrain
 
 这是《明日方舟-终末地》的预告片的部分内容：
 
-![Pasted image 20260130164918|400](https://origin.picgo.net/2026/01/31/Pasted-image-202601301649188fe2c02ae4223db8.webp)
+{{< figure src="https://origin.picgo.net/2026/01/31/Pasted-image-202601301649188fe2c02ae4223db8.webp">}}
 
-![Pasted image 20260130164952|400](https://origin.picgo.net/2026/01/31/Pasted-image-2026013016495230d3905f67f15831.webp)
-
+{{< figure src="https://origin.picgo.net/2026/01/31/Pasted-image-2026013016495230d3905f67f15831.webp">}}
 
 这是《死亡搁浅2》的预告片的部分内容：
-![Pasted image 20260130165104|400](https://origin.picgo.net/2026/01/31/Pasted-image-2026013016510461e47e7a4c263cc9.webp)
 
-![Pasted image 20260130165034|400](https://origin.picgo.net/2026/01/31/Pasted-image-20260130165034fa9e04c09c43f942.webp)
+{{< figure src="https://origin.picgo.net/2026/01/31/Pasted-image-2026013016510461e47e7a4c263cc9.webp">}}
+
+{{< figure src="https://origin.picgo.net/2026/01/31/Pasted-image-20260130165034fa9e04c09c43f942.webp">}}
+
 
 像啊！很像啊！这算不算是抄...
 
-![44d3d8e4371a482181bbdf918402cb281674256611|400](https://origin.picgo.net/2026/01/31/44d3d8e4371a482181bbdf918402cb281674256611a390331ab10b3a5b.jpg)
+{{< figure src="https://origin.picgo.net/2026/01/31/44d3d8e4371a482181bbdf918402cb281674256611a390331ab10b3a5b.jpg">}}
 
 哦，原来是朋友啊，那没事了。
 
@@ -75,7 +74,7 @@ author: MeLsrain
 
 中国玩家Sn0wMak3r于2026年1月11日完成了《泰拉瑞亚》普通难度、无漏洞、随机种子的速通，用时**48分12秒**‌，超过了曾经的外国选手sububby的48分37秒的成绩，登顶世界第一。
 
-![Pasted image 20260127191039|400](https://origin.picgo.net/2026/01/31/Pasted-image-2026012719103934bfd4df15c073a8.webp)
+{{< figure src="https://origin.picgo.net/2026/01/31/Pasted-image-2026012719103934bfd4df15c073a8.webp">}}
 
 但其中也有一个小插曲。我详细地讲讲。
 
@@ -94,7 +93,7 @@ author: MeLsrain
 
 在本次的速通中，Sn0wMak3r也小小地借用了一下替换材质的材质包，把骷髅王改成了Ez。
 
-![Pasted image 20260127192448|400](https://origin.picgo.net/2026/01/31/Pasted-image-20260127192448105176caae8589f4.webp)
+{{< figure src="https://origin.picgo.net/2026/01/31/Pasted-image-20260127192448105176caae8589f4.webp">}}
 
 虽然所有人都在玩这个梗，但是Ezfic本人的人品却并不是很好。
 他不太能接受别人比他好，所以在在他看到这个视频后就立刻进行了举报，说其侵犯了肖像权。
@@ -103,13 +102,13 @@ author: MeLsrain
 
 但好在最终速通视频还是保留了下来，只是把Ez的头换成了小丑脸了。
 
-![Pasted image 20260127192910|500](https://origin.picgo.net/2026/01/31/Pasted-image-20260127192910bc77962d8ddd02a2.webp)
+{{< figure src="https://origin.picgo.net/2026/01/31/Pasted-image-20260127192910bc77962d8ddd02a2.webp">}}
 
 **请支持《泰拉瑞亚》喵！**
 
 对的，这期就这样结束了。一月看的比较少，没看到什么有趣的内容，素材就这两个吧。
 
-![|300](https://imgheybox1.max-c.com/bbs/2025/05/21/9f6b6976b033c581cc38330931ec9b50.gif?imageMogr2/format/webp/quality/50/auto-orient/ignore-error/1)
+{{< figure src="https://imgheybox1.max-c.com/bbs/2025/05/21/9f6b6976b033c581cc38330931ec9b50.gif?imageMogr2/format/webp/quality/50/auto-orient/ignore-error/1">}}
 
 
 
