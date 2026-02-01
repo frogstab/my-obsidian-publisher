@@ -13,7 +13,7 @@ description: 你好，我是描述，请看正文
 series: 月报
 lastmod: 2026-01-31T20:30:00+08:00
 languageCode: zh-cn
-cover.image: https://cdn.nlark.com/yuque/0/2026/jpeg/63297462/1769862023315-94b10f80-3c97-4930-aa42-42ba20897f8b.jpeg?x-oss-process=image%2Fformat%2Cwebp
+featuredImagePreview: https://cdn.nlark.com/yuque/0/2026/jpeg/63297462/1769862023315-94b10f80-3c97-4930-aa42-42ba20897f8b.jpeg?x-oss-process=image%2Fformat%2Cwebp
 author: MeLsrain
 ---
 
