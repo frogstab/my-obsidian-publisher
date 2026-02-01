@@ -58,7 +58,7 @@ author: MeLsrain
 
 像啊！很像啊！这算不算是抄...
 
-{{< figure src="https://origin.picgo.net/2026/01/31/44d3d8e4371a482181bbdf918402cb281674256611a390331ab10b3a5b.jpg" height="300">}}
+{{< figure src="https://origin.picgo.net/2026/01/31/44d3d8e4371a482181bbdf918402cb281674256611a390331ab10b3a5b.jpg" height="100">}}
 
 哦，原来是朋友啊，那没事了。
 
