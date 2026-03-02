@@ -113,7 +113,8 @@ What can I say！还是看看梗图吧。
 
 2026年2月6日《KUN》通过QQ音乐、酷狗音乐、酷我音乐（我的网易云呢😭）上线的同名数字专辑。
 
-[![e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890|500](https://origin.picgo.net/2026/02/28/e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890cd0f9c6952d815c8.webp)](https://www.picgo.net/image/e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890.bBqmSM)
+[![e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890](https://origin.picgo.net/2026/02/28/e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890cd0f9c6952d815c8.md.webp)](https://www.picgo.net/image/e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890.bBqmSM)](https://www.picgo.net/image/e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890.bBqmSM)
+
 共包含11首曲目
 
 1. 《Honour》
