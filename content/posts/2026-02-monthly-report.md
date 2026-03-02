@@ -98,7 +98,7 @@ author: MeLsrain
 
 在次日1点，快手紧急关闭整个直播功能来止损。
 
-![Pasted image 20260225223814](../../static/images/Pasted%20image%2020260225223814.png.png)
+[![Pasted image 20260225223814](https://origin.picgo.net/2026/03/02/Pasted-image-2026022522381415c32cfddc2e8b18.png)](https://www.picgo.net/image/Pasted-image-20260225223814.bMytJw)
 
 据网络报道：快手平台因遭到黑灰产攻击，加上自身网络安全体系的隐患，才造成此次P0级事故。
 
@@ -106,14 +106,14 @@ author: MeLsrain
 
 What can I say！还是看看梗图吧。
 
-![p1](http://i0.hdslb.com/bfs/new_dyn/76c11249bd6607084ccf79e2b7d192ed34126305.jpg)
+[![p1](http://i0.hdslb.com/bfs/new_dyn/76c11249bd6607084ccf79e2b7d192ed34126305.jpg)
 
 ---
 ## 蔡徐坤发布新专辑《KUN》
 
 2026年2月6日《KUN》通过QQ音乐、酷狗音乐、酷我音乐（我的网易云呢😭）上线的同名数字专辑。
 
-[![e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890](https://origin.picgo.net/2026/02/28/e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890cd0f9c6952d815c8.webp)](https://www.picgo.net/image/e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890.bBqmSM)
+[![e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890|500](https://origin.picgo.net/2026/02/28/e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890cd0f9c6952d815c8.webp)](https://www.picgo.net/image/e61190ef76c6a7efce1b8bcba0a6b851f3deb58fc890.bBqmSM)
 共包含11首曲目
 
 1. 《Honour》
@@ -150,7 +150,7 @@ What can I say！还是看看梗图吧。
 
 不管怎样，在游戏刚开测的时候在线人数一度突破9万，不过两周不到的时间，这个数字就断崖式暴跌到2200人左右。
 
-![p2](https://pics4.baidu.com/feed/b151f8198618367af75f6a2a587dc1c5b21ce516.jpeg@f_auto?token=513a0d55efc06f7082e971c2f8f316d7)
+[![p2](https://pics4.baidu.com/feed/b151f8198618367af75f6a2a587dc1c5b21ce516.jpeg@f_auto?token=513a0d55efc06f7082e971c2f8f316d7)
 
 褒姒力，然后还能怎么样：“啊，对不起，我们做了一个艰难的决定……😭”
 
@@ -158,7 +158,7 @@ What can I say！还是看看梗图吧。
 
 会上，领导层告知员工，腾讯已撤资，这个约100人的团队大部分成员将被解雇。目前，大约有20名开发者仍留守工作室，希望能挽救这款游戏。但正如彭博社所指出的，当前的Steam在线数据已描绘出一幅惨淡的图景。
 
-![p3](https://pics5.baidu.com/feed/8435e5dde71190ef5be33bdeb915d707fdfa60b2.jpeg@f_auto?token=4c0ee86ea3318c97518b2ef149a639b7)
+[![p3](https://pics5.baidu.com/feed/8435e5dde71190ef5be33bdeb915d707fdfa60b2.jpeg@f_auto?token=4c0ee86ea3318c97518b2ef149a639b7)
 
 是的，游戏在1月就发布了，但是我二月才想起来有这个游戏（甚至不是刷到的），可以见得这个游戏确实不温不火。
 
